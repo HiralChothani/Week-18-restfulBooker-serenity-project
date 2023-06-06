@@ -1,0 +1,8 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Booking CRUD test","create token","SUCCESS","2023-06-06T14:28:10.069+01:00[Europe/London]","0.0","1.35"
+"Booking CRUD test","This will create a booking","SUCCESS","2023-06-06T14:28:11.426+01:00[Europe/London]","0.0","0.66"
+"Booking CRUD test","Verify if the user was added to the application","SUCCESS","2023-06-06T14:28:12.090+01:00[Europe/London]","0.0","0.63"
+"Booking CRUD test","This will update a booking","SUCCESS","2023-06-06T14:28:12.728+01:00[Europe/London]","0.0","0.73"
+"Booking CRUD test","This will update a partial booking ","SUCCESS","2023-06-06T14:28:13.463+01:00[Europe/London]","0.0","0.61"
+"Booking CRUD test","Verify if the booking  was updated partially","SUCCESS","2023-06-06T14:28:14.073+01:00[Europe/London]","0.0","0.58"
+"Booking CRUD test","This will delete booking and verify booking is deleted","SUCCESS","2023-06-06T14:28:14.657+01:00[Europe/London]","0.0","1.03"

@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="0" name="com.restful.booker.bookinginfo.AuthTest" skipped="0" tests="1" time="7.13" timestamp="2023-06-06T14:28:00.681+01:00[Europe/London]"><testcase classname="com.restful.booker.bookinginfo.AuthTest" name="This will create Auth token"/></testsuite>
